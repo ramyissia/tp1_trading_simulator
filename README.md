@@ -59,6 +59,14 @@ Graphical version (Tkinter):
 python trading_gui.py
 ```
 
+## Screenshot of the GUI
+
+![GUI screenshot](screenshot.png)
+
+The interface shows the live prices, the order panel (with a live
+conversion of the USD amount into each crypto), the portfolio with
+positions valued at market, and the trade history.
+
 ## What the project does (Steps 1 to 5)
 
 1. Folder layout: `trading_simulator.py`, `README.md`, and
