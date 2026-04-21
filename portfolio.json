@@ -1,0 +1,58 @@
+{
+  "cash": 407.6242,
+  "positions": {
+    "bitcoin": 0.01430901842568355,
+    "ethereum": 1.942242037886668,
+    "solana": 46.62004662004662
+  },
+  "trades": [
+    {
+      "timestamp": "2026-04-21T12:28:40+00:00",
+      "side": "BUY",
+      "coin": "bitcoin",
+      "quantity": 0.01309740540398947,
+      "price": 76351.0,
+      "usd_amount": 1000.0
+    },
+    {
+      "timestamp": "2026-04-21T12:28:50+00:00",
+      "side": "BUY",
+      "coin": "ethereum",
+      "quantity": 0.21580467087629646,
+      "price": 2316.91,
+      "usd_amount": 500.0
+    },
+    {
+      "timestamp": "2026-04-21T12:29:03+00:00",
+      "side": "BUY",
+      "coin": "solana",
+      "quantity": 46.62004662004662,
+      "price": 85.8,
+      "usd_amount": 4000.0
+    },
+    {
+      "timestamp": "2026-04-21T12:32:06+00:00",
+      "side": "BUY",
+      "coin": "ethereum",
+      "quantity": 1.7264373670103716,
+      "price": 2316.91,
+      "usd_amount": 4000.0
+    },
+    {
+      "timestamp": "2026-04-21T12:41:27+00:00",
+      "side": "BUY",
+      "coin": "bitcoin",
+      "quantity": 0.0013116130216940794,
+      "price": 76242,
+      "usd_amount": 100.0
+    },
+    {
+      "timestamp": "2026-04-21T12:41:46+00:00",
+      "side": "SELL",
+      "coin": "bitcoin",
+      "quantity": 0.0001,
+      "price": 76242,
+      "usd_amount": 7.6242
+    }
+  ]
+}
